@@ -5,11 +5,13 @@
 
 We are a creative studio who are masters in Development and Design! We offer Custom Software Development, Hand Drawn Graphics, Custom Video-Game Mod/Plugin Development and many other creative development services!
 
-**Our Site:** https://pixelatedstudios.net
+[![Website](https://img.shields.io/website?label=PixelatedStudios.net%20is&url=https%3A%2F%2FPixelatedStudios.net)](https://pixelatedstudios.net) <== click me to go there!
 <br></br>
-**Our Discord:** [https://discord.gg/xQjajwNzrR](https://discord.gg/5sEHZKdd8h)
+**Our** [![Discord](https://img.shields.io/discord/865652593932632134?label=Discord&logo=Discord&style=plastic)](https://discord.gg/k8wvnZDDTV)
 <br></br>
-**Our TrustPilot:** https://www.trustpilot.com/review/pixelatedstudios.xyz
+**Our** [![trustpilot](https://camo.githubusercontent.com/1ca9a827cb82ed73f2d0d49f7fe9b0825249dfa163643a0340e44ed26f539520/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d547275737470696c6f7426636f6c6f723d303042363741266c6f676f3d547275737470696c6f74266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.trustpilot.com/review/pixelatedstudios.xyz)
+<br></br>
+**Our** ![Twitter Follow](https://img.shields.io/twitter/follow/PStudiosLimited?style=social)
 
 # FAQ
 ### Q: `Why is there no public code here?`
