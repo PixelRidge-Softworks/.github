@@ -7,7 +7,7 @@ We are a creative studio who are masters in Development and Design! We offer Cus
 
 **Our Site:** https://pixelatedstudios.net
 <br></br>
-**Our Discord:** https://discord.gg/xQjajwNzrR
+**Our Discord:** [https://discord.gg/xQjajwNzrR](https://discord.gg/5sEHZKdd8h)
 <br></br>
 **Our TrustPilot:** https://www.trustpilot.com/review/pixelatedstudios.xyz
 
