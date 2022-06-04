@@ -11,7 +11,7 @@ We are a creative studio who are masters in Development and Design! We offer Cus
 <br></br>
 **Our** [![trustpilot](https://camo.githubusercontent.com/1ca9a827cb82ed73f2d0d49f7fe9b0825249dfa163643a0340e44ed26f539520/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d547275737470696c6f7426636f6c6f723d303042363741266c6f676f3d547275737470696c6f74266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.trustpilot.com/review/pixelatedstudios.xyz)
 <br></br>
-**Our** ![Twitter Follow](https://img.shields.io/twitter/follow/PStudiosLimited?style=social)
+**Our Twitter** ![Twitter Follow](https://img.shields.io/twitter/follow/PStudiosLimited?style=social)
 
 # FAQ
 ### Q: `Why is there no public code here?`
