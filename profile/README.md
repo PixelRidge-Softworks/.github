@@ -17,7 +17,7 @@ We are a creative studio who are masters in Development and Design! We offer Cus
 ### Q: `Why is there no public code here?`
 **A:** *Because of the nature of a lot of our projects, a lot of our work is under NDA or is kept private to protect client privacy as code hosted in our repositories are non-obfuscated sources. If you are a potential client wanting access to view our work, please reach out to `portfoliorequests@pixelatedstudios.net` with a GitHub username to be granted viewing privileges*
 
-### Q: `What is the Pixelated Studios GST/HST Registration Number?`
+### Q: `What is the Pixelated Studios Limited Corporation Number?`
 **A:** *Pixelated Studios Limited is a Federally Registered Canadian Company. Our Corporation Number is: 1396964-9*
 
 ### Q: `How do I contact you guys for general questions?`
