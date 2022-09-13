@@ -5,7 +5,7 @@
 
 We are a creative studio who are masters in Development and Design! We offer Custom Software Development, Hand Drawn Graphics, Custom Video-Game Mod/Plugin Development and many other creative development services!
 
-[![Website](https://img.shields.io/website?label=PixelatedStudios.net%20is&url=https%3A%2F%2FPixelatedStudios.net)](https://pixelatedstudios.net) Currently Under Construction!
+[![Website](https://img.shields.io/website?label=PixelatedStudios.net%20is&url=https%3A%2F%2FPixelatedStudios.net)](https://pixelatedstudios.net) Click to Visit!
 <br></br>
 **Our** [![Discord](https://img.shields.io/discord/865652593932632134?label=Discord&logo=Discord&style=plastic)](https://discord.gg/k8wvnZDDTV)
 <br></br>
