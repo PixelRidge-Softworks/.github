@@ -5,7 +5,8 @@
 
 We are a creative studio who are masters in Development and Design! We offer Custom Software Development, Hand Drawn Graphics, Custom Video-Game Mod/Plugin Development and many other creative development services!
 
-[Wanna call us to discuss your project?](tel://+18779687095)(1-877-968-7095 Mon-Sun 7AM - 10PM)
+**Wanna call us to discuss your project? (1-877-968-7095 Mon-Sun 7AM - 10PM)**
+<br></br>
 [![Website](https://img.shields.io/website?label=PixelatedStudios.net%20is&url=https%3A%2F%2FPixelatedStudios.net)](https://pixelatedstudios.net) Wanna redo this design? Reach out!
 <br></br>
 **Our** [![Discord](https://img.shields.io/discord/865652593932632134?label=Discord&logo=Discord&style=plastic)](https://discord.gg/k8wvnZDDTV)
