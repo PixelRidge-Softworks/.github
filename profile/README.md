@@ -28,7 +28,7 @@ $^\{(only\ for\ Package\ Managers)}$
 ### Our Ruby Gem Repository
 [PixelRidge Ruby Repo](https://git.pixelridgesoftworks.com/api/packages/PixelRidge-Softworks/rubygems)
 
-## Our Debian Repository
+### Our Debian Repository
 [PixelRidge Debian Repo](https://git.pixelridgesoftworks.com/api/packages/PixelRidge-Softworks/debian)
 
 ## Public Keys
