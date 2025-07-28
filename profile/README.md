@@ -2,7 +2,7 @@
 
 We are a company specializing in Software Development and Integration! We develop bespoke, open source, and commercial software!
 
-## NOTICE: Due to real life things, and this being a one-man operation, our websites and Discord have been discontinued until future notice! If you have questions or need support, please reach out to us via Github issues or Discussions on the project you need help with!
+## NOTICE: PixelRidge Softworks is a very small operation. Due to that, updates, commits, and support are highly limited. If you need to get in touch with us, please reach out via Github Issues, Github Discussions, or [email](mailto:support@pixelridgesoftworks.com)
 
 # Discover PixelRidge
 
